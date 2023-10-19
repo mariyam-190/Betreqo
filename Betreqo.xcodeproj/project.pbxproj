@@ -11,6 +11,18 @@
 		EAE32B782ADE6CED00D74F7A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE32B772ADE6CED00D74F7A /* ContentView.swift */; };
 		EAE32B7A2ADE6CED00D74F7A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAE32B792ADE6CED00D74F7A /* Assets.xcassets */; };
 		EAE32B7D2ADE6CED00D74F7A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAE32B7C2ADE6CED00D74F7A /* Preview Assets.xcassets */; };
+		EAE32B842ADE6DBE00D74F7A /* CustumColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE32B832ADE6DBE00D74F7A /* CustumColor.swift */; };
+		EAE32B882ADE6E2A00D74F7A /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE32B872ADE6E2A00D74F7A /* ColorPickerView.swift */; };
+		EAE32B8A2ADE6E6500D74F7A /* Contents.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE32B892ADE6E6500D74F7A /* Contents.swift */; };
+		EAE32B8D2ADE6EEE00D74F7A /* ConfettiSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = EAE32B8C2ADE6EEE00D74F7A /* ConfettiSwiftUI */; };
+		EAE32B8F2ADE70CD00D74F7A /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE32B8E2ADE70CD00D74F7A /* SplashScreen.swift */; };
+		EAE32B922ADE71F300D74F7A /* Ithra in Resources */ = {isa = PBXBuildFile; fileRef = EAE32B912ADE71F300D74F7A /* Ithra */; };
+		EAE32B952ADE72C300D74F7A /* MainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE32B942ADE72C300D74F7A /* MainScreen.swift */; };
+		EAE32B972ADE737300D74F7A /* IntrestScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAE32B962ADE737300D74F7A /* IntrestScreen.swift */; };
+		EAF57BA72ADE7C5100112D37 /* ReadingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF57BA62ADE7C5100112D37 /* ReadingScreen.swift */; };
+		EAF57BA92ADE7D3300112D37 /* story.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EAF57BA82ADE7D3300112D37 /* story.mp3 */; };
+		EAF57BAB2ADE7E4F00112D37 /* DictationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF57BAA2ADE7E4F00112D37 /* DictationScreen.swift */; };
+		EAF57BAD2ADE820A00112D37 /* CelebrationScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF57BAC2ADE820A00112D37 /* CelebrationScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +31,18 @@
 		EAE32B772ADE6CED00D74F7A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EAE32B792ADE6CED00D74F7A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAE32B7C2ADE6CED00D74F7A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EAE32B832ADE6DBE00D74F7A /* CustumColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustumColor.swift; sourceTree = "<group>"; };
+		EAE32B872ADE6E2A00D74F7A /* ColorPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
+		EAE32B892ADE6E6500D74F7A /* Contents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contents.swift; sourceTree = "<group>"; };
+		EAE32B8E2ADE70CD00D74F7A /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		EAE32B912ADE71F300D74F7A /* Ithra */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ithra; sourceTree = "<group>"; };
+		EAE32B932ADE726100D74F7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		EAE32B942ADE72C300D74F7A /* MainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
+		EAE32B962ADE737300D74F7A /* IntrestScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntrestScreen.swift; sourceTree = "<group>"; };
+		EAF57BA62ADE7C5100112D37 /* ReadingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingScreen.swift; sourceTree = "<group>"; };
+		EAF57BA82ADE7D3300112D37 /* story.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = story.mp3; sourceTree = "<group>"; };
+		EAF57BAA2ADE7E4F00112D37 /* DictationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DictationScreen.swift; sourceTree = "<group>"; };
+		EAF57BAC2ADE820A00112D37 /* CelebrationScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelebrationScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +50,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAE32B8D2ADE6EEE00D74F7A /* ConfettiSwiftUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -51,10 +76,22 @@
 		EAE32B742ADE6CED00D74F7A /* Betreqo */ = {
 			isa = PBXGroup;
 			children = (
+				EAE32B932ADE726100D74F7A /* Info.plist */,
+				EAE32B902ADE71D200D74F7A /* font */,
 				EAE32B752ADE6CED00D74F7A /* BetreqoApp.swift */,
+				EAE32B8E2ADE70CD00D74F7A /* SplashScreen.swift */,
 				EAE32B772ADE6CED00D74F7A /* ContentView.swift */,
+				EAE32B942ADE72C300D74F7A /* MainScreen.swift */,
+				EAE32B962ADE737300D74F7A /* IntrestScreen.swift */,
+				EAF57BA62ADE7C5100112D37 /* ReadingScreen.swift */,
+				EAF57BAA2ADE7E4F00112D37 /* DictationScreen.swift */,
+				EAF57BAC2ADE820A00112D37 /* CelebrationScreen.swift */,
 				EAE32B792ADE6CED00D74F7A /* Assets.xcassets */,
 				EAE32B7B2ADE6CED00D74F7A /* Preview Content */,
+				EAE32B832ADE6DBE00D74F7A /* CustumColor.swift */,
+				EAE32B872ADE6E2A00D74F7A /* ColorPickerView.swift */,
+				EAE32B892ADE6E6500D74F7A /* Contents.swift */,
+				EAF57BA82ADE7D3300112D37 /* story.mp3 */,
 			);
 			path = Betreqo;
 			sourceTree = "<group>";
@@ -65,6 +102,14 @@
 				EAE32B7C2ADE6CED00D74F7A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EAE32B902ADE71D200D74F7A /* font */ = {
+			isa = PBXGroup;
+			children = (
+				EAE32B912ADE71F300D74F7A /* Ithra */,
+			);
+			path = font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +128,9 @@
 			dependencies = (
 			);
 			name = Betreqo;
+			packageProductDependencies = (
+				EAE32B8C2ADE6EEE00D74F7A /* ConfettiSwiftUI */,
+			);
 			productName = Betreqo;
 			productReference = EAE32B722ADE6CED00D74F7A /* Betreqo.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +159,9 @@
 				Base,
 			);
 			mainGroup = EAE32B692ADE6CEC00D74F7A;
+			packageReferences = (
+				EAE32B8B2ADE6EEE00D74F7A /* XCRemoteSwiftPackageReference "ConfettiSwiftUI" */,
+			);
 			productRefGroup = EAE32B732ADE6CED00D74F7A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,6 +176,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAF57BA92ADE7D3300112D37 /* story.mp3 in Resources */,
+				EAE32B922ADE71F300D74F7A /* Ithra in Resources */,
 				EAE32B7D2ADE6CED00D74F7A /* Preview Assets.xcassets in Resources */,
 				EAE32B7A2ADE6CED00D74F7A /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +190,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAE32B8F2ADE70CD00D74F7A /* SplashScreen.swift in Sources */,
+				EAE32B952ADE72C300D74F7A /* MainScreen.swift in Sources */,
+				EAE32B882ADE6E2A00D74F7A /* ColorPickerView.swift in Sources */,
+				EAE32B8A2ADE6E6500D74F7A /* Contents.swift in Sources */,
+				EAF57BA72ADE7C5100112D37 /* ReadingScreen.swift in Sources */,
+				EAE32B842ADE6DBE00D74F7A /* CustumColor.swift in Sources */,
 				EAE32B782ADE6CED00D74F7A /* ContentView.swift in Sources */,
+				EAF57BAB2ADE7E4F00112D37 /* DictationScreen.swift in Sources */,
+				EAF57BAD2ADE820A00112D37 /* CelebrationScreen.swift in Sources */,
 				EAE32B762ADE6CED00D74F7A /* BetreqoApp.swift in Sources */,
+				EAE32B972ADE737300D74F7A /* IntrestScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +336,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Betreqo/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Betreqo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -302,6 +365,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Betreqo/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Betreqo/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -342,6 +406,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		EAE32B8B2ADE6EEE00D74F7A /* XCRemoteSwiftPackageReference "ConfettiSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/simibac/ConfettiSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.1.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EAE32B8C2ADE6EEE00D74F7A /* ConfettiSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EAE32B8B2ADE6EEE00D74F7A /* XCRemoteSwiftPackageReference "ConfettiSwiftUI" */;
+			productName = ConfettiSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EAE32B6A2ADE6CEC00D74F7A /* Project object */;
 }
